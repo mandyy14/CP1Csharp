@@ -1,0 +1,14 @@
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\bin\Debug\net8.0\ControleProdutos.exe
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\bin\Debug\net8.0\ControleProdutos.deps.json
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\bin\Debug\net8.0\ControleProdutos.runtimeconfig.json
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\bin\Debug\net8.0\ControleProdutos.dll
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\bin\Debug\net8.0\ControleProdutos.pdb
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.AssemblyInfoInputs.cache
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.AssemblyInfo.cs
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.csproj.CoreCompileInputs.cache
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.dll
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\refint\ControleProdutos.dll
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.pdb
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ControleProdutos.genruntimeconfig.cache
+C:\Users\João Costa\source\repos\ControleProdutos\ControleProdutos\obj\Debug\net8.0\ref\ControleProdutos.dll
